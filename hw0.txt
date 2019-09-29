@@ -1,3 +1,15 @@
 # Description of your program (part 7)
 
+1) Open the document 
+2) Start reading from the very beginning of the document
+3) You will keep track of the number of words in the document by keeping a count, starting with zero
+4) You will know a word has ended when a letter is followed by a space or punctuation mark
+5) Let's begin: Read the first word, stopping when you encounter a space or punctuation mark, and add one to your count
+6) Continue this process, moving onto the next word, reading trough the letters, stopping when you encounter a space or punctuation mark and adding one to your count each time
+7) Stop reading through the document when you encounter a letter or punctuation mark that is followed by nothing, add one to your count, then write down the final count
+
 # Reflection on writing your program (part 8)
+
+Having taken 142 and 143 before, I am familiar with the concept of writing code to count the number of words in a document. Although I am a little rusty, I thought I'd tackle this exercise easily with the experience that I have. What I discovered, however, is that writing instructions in English - or "pseudocode" - is often harder than just writing the program itself. When you write out pseudocode, you have to think of all of the potential errors you could run into. When you write code, you can test for errors during the process by debugging as you go. It's weird to think that writing instructions for a human would be harder than writing them for a computer, but that is exactly what I experienced with this exercise.
+
+From this class, I hope to learn how to collaborate on coding projects. The past computer science classes I have taken had strict "no helping each other" policies, so transitioning to collaborating on code will be new and refreshing. I also hope to learn some skills that will help me with data analysis in the research projects I'm participating in this quarter.
